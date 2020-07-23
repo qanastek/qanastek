@@ -7,7 +7,7 @@
 
 ### Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-ISO_C%2B%2B_Logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/symfony_black_03.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/Tensorflow_logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/4b75d770c8ed1be9fcdf2960b90c3b2e3f181712/AngularJS-Shield.svg" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Python-logo-notext.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Java_Logo.svg.png" width=60> |
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 ### Tools :fire:
