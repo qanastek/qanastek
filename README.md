@@ -18,7 +18,7 @@
 
 🔭 During my free time I’m currently working on a OCR for French licence plates and ID cards (OpenCV + Tesseract + Tensorflow)
 
-🌱 I’m currently learning Tensorflow
+🌱 I’m currently learning Tensorflow & PyTorch
 
 
 ### Connect with me :smiley:
