@@ -14,7 +14,9 @@
 |<img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Autodesk_Logo_A_only.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/GitLab_Logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Photoshop_CC_icon.svg.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
-🔭 I’m currently working on a OCR for French licence plates and ID cards (OpenCV + Tesseract + Tensorflow)
+💼 I’m currently working on Natural Language Processing (NLP) such as Word embedding, Recurent Neural Networks (RNN), Sentiments Analysis and much more...
+
+🔭 During my free time I’m currently working on a OCR for French licence plates and ID cards (OpenCV + Tesseract + Tensorflow)
 
 🌱 I’m currently learning Tensorflow
 
