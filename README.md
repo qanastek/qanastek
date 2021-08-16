@@ -16,12 +16,12 @@
 
 💼 I’m currently working on Natural Language Processing (NLP) and Computer Vision tasks.
 
-🔭 During my free time, I’m currently working on End-To-End (E2E) OCR approaches to applied to French uses cases.
+🔭 During my free time, I’m currently working on a End-To-End (E2E) Computer Vision Toolkit called **HugsVision** to simplify iterations and provide better solutions to the end-users for many uses cases.
 
-🌱 I’m currently learning Deep Learning approaches with Tensorflow & PyTorch frameworks.
+🌱 I’m currently learning about Deep Learning approaches using Tensorflow & PyTorch frameworks.
 
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/yanis-labrak-8a7412145/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/qanastek/qanastek/master/linkedin.svg" />
+  <img align="left" alt="Yanis Labrak Linkdin" width="21px" src="https://raw.githubusercontent.com/qanastek/qanastek/master/linkedin.svg" />
 </a>
