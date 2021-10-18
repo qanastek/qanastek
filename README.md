@@ -14,12 +14,11 @@
 |<img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Autodesk_Logo_A_only.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/GitLab_Logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Photoshop_CC_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_XD_CC_icon.svg.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|
 
-💼 I’m currently working on Natural Language Processing (NLP) and Computer Vision tasks applied to the Healthcare industry at the Avignon University CS Research Lab (Laboratoire Informatique d'Avignon - LIA).
+💼 I’m currently working on Natural Language Processing (NLP) and Computer Vision (CV) tasks applied to the Healthcare industry at the Avignon University CS Research Lab (Laboratoire Informatique d'Avignon - LIA).
 
 🔭 During my free time, I’m currently working on a End-To-End (E2E) Computer Vision Toolkit called **HugsVision** to simplify iterations and provide better solutions to the end-users for many uses cases.
 
-🌱 I’m currently learning about Deep Learning approaches using Tensorflow & PyTorch frameworks.
-
+🌱 I’m currently learning about Deep Learning approaches using Tensorflow, Keras, PyTorch & SpeechBrain frameworks.
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/yanis-labrak-8a7412145/">
