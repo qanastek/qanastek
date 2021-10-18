@@ -11,8 +11,8 @@
 
 
 ### Machine Learning Frameworks  :rocket:
-| <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/Tensorflow_logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/Pytorch_logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/hugging_face.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/59021421%20(1).png" width=60> |
-|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/Tensorflow_logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/Pytorch_logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/hugging_face.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/59021421%20(1).png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/logo_noname_rounded_very_small.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1024px-Keras_logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/logo_name_transparent.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 ### Tools :fire:
