@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    I'm <a href="https://github.com/qanastek">Yanis Labrak</a> currently a Master of Science CS student at <a href="http://univ-avignon.fr/">Avignon University :school: </a> and aspiring Machine Learning Scientist:computer:. Interested in working on Backend, API's, Frontend, UI/UX, Embedded Systems and Machine Learning Technology.
+    I'm <a href="https://github.com/qanastek">Yanis Labrak</a> currently a Master of Science CS student at <a href="http://univ-avignon.fr/">Avignon University :school: </a> and aspiring Research Scientist in Machine Learning:computer:. Interested in working on Machine Learning Technology, API's, UI/UX and Embedded Systems.
   </samp>
 </p>
 
