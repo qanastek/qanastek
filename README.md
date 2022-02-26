@@ -26,6 +26,11 @@
 🌱 I’m currently learning about Deep Learning approaches using Tensorflow, Keras, PyTorch & SpeechBrain frameworks.
 
 ### Connect with me :smiley:
+
+
 <a href="https://www.linkedin.com/in/yanis-labrak-8a7412145/">
-  <img align="left" alt="Yanis Labrak Linkdin" width="21px" src="https://raw.githubusercontent.com/qanastek/qanastek/master/linkedin.svg" />
+  <img align="left" alt="Yanis Labrak Linkedin" width="21px" src="https://raw.githubusercontent.com/qanastek/qanastek/master/linkedin.svg" />
+</a>
+<a href="https://huggingface.co/qanastek">
+  <img align="left" alt="Yanis Labrak Hugging Face" width="21px" src="https://raw.githubusercontent.com/qanastek/qanastek/master/huggingface_logo-noborder.svg" />
 </a>
