@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    I'm <a href="https://github.com/qanastek">Yanis Labrak</a> currently a Master of Science CS student at <a href="http://univ-avignon.fr/">Avignon University :school: </a> and aspiring Research Scientist in Machine Learning:computer:. Interested in working on Machine Learning Technology, API's, UI/UX and Embedded Systems.
+    I'm <a href="https://github.com/qanastek">Yanis Labrak</a> currently a PhD. in Computer Science student at <a href="http://univ-avignon.fr/">Avignon University :school: </a> and aspiring Research Scientist in Machine Learning:computer:. Interested in working on Machine Learning Technology, API's, UI/UX and Embedded Systems.
   </samp>
 </p>
 
@@ -19,7 +19,7 @@
 |<img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Autodesk_Logo_A_only.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/GitLab_Logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Photoshop_CC_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_XD_CC_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/qanastek/qanastek/master/Adobe_Illustrator_CC_icon.svg.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-💼 I’m currently working on Natural Language Processing (NLP) and Computer Vision (CV) tasks applied to the Healthcare industry at the Avignon University CS Research Lab (Laboratoire Informatique d'Avignon - LIA).
+💼 I’m currently working on Natural Language Processing (NLP) and Computer Vision (CV) tasks applied to the Healthcare industry at the Avignon University Computer Science Research Lab (Laboratoire Informatique d'Avignon - LIA).
 
 🔭 During my free time, I’m currently working on a End-To-End (E2E) Computer Vision Toolkit called **HugsVision** to simplify iterations and provide better solutions to the end-users for many uses cases.
 
