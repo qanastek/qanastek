@@ -1,6 +1,12 @@
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/yanis-labrak-8a7412145/">Yanis Labrak</a> currently a PhD. student in Computer Science (CS) at <a href="http://univ-avignon.fr/">Avignon University :school: </a> and aspiring Research Scientist in Machine Learning:computer:. Interested in working on Machine Learning Technology, API's, UI/UX and Embedded Systems.
+              <p>💼 I'm currently doing a PhD in Speech and Natural Language Processing (NLP) applied to
+                the Healthcare industry at the Avignon University CS Research Lab (Laboratoire Informatique d’Avignon -
+                LIA, France). I also spend my time as a Research Scientist at Zenidoc.</p>
+              <p>🔬 Most of my recent research are concentrated on machine learning methods and more specially on
+                language modeling and speech recognition applied to domain specific applications in medical.</p>
+              <p>🔭 I’m currently working on integrating speech modality into textual large language models, in order to leverage vastly available textual knowledge and performing End-To-End tasks which currently necessitate using cascade systems.</p>
+
   </samp>
 </p>
 
